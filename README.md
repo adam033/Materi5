@@ -9,5 +9,5 @@ Satu kelas Java dinyatakan sebagai sebuah fragment ketika kelas tersebut meng-ex
 (inherit) kelas Fragment. Untuk gambaran aplikasi nya kita akan buat seperti ini.
 
 #### Hasil :
-![Alt Text]()
-![Alt Text]()
+![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(608).png)
+![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(609).png)
