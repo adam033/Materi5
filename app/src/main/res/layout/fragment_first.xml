@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_marginLeft="30px"
+        android:layout_marginTop="50px"
+        android:layout_width="400px"
+        android:layout_height="160px"
+        android:src="@drawable/asasasasasas"
+        />
+    <LinearLayout
+        android:layout_marginTop="100px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_marginLeft="30px"
+            android:layout_width="500px"
+            android:layout_height="400px"
+            android:src="@drawable/mas"
+            android:layout_gravity="center"
+            />
+        <ImageView
+            android:layout_marginLeft="10px"
+            android:layout_width="500px"
+            android:layout_height="400px"
+            android:src="@drawable/jenitsu_1"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_marginLeft="30px"
+            android:layout_width="500px"
+            android:layout_height="400px"
+            android:src="@drawable/las"
+            android:layout_gravity="center"
+            />
+        <ImageView
+            android:layout_marginLeft="10px"
+            android:layout_width="500px"
+            android:layout_height="400px"
+            android:src="@drawable/near"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_marginLeft="30px"
+            android:layout_width="500px"
+            android:layout_height="400px"
+            android:src="@drawable/asasadwawdawd"
+            android:layout_gravity="center"
+            />
+        <ImageView
+            android:layout_marginLeft="10px"
+            android:layout_width="500px"
+            android:layout_height="400px"
+            android:src="@drawable/awiauwjaw"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

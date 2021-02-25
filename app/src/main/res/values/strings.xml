@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AWOKAOWK</string>
+    <string name="show_fragment_1">Tampil 1</string>
+    <string name="show_fragment_2">Tampil 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Opo</string>
+    <string name="lor">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
