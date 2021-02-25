@@ -12,5 +12,7 @@ Satu kelas Java dinyatakan sebagai sebuah fragment ketika kelas tersebut meng-ex
 Lifecycle dari fragment ini menjadi 2 bagian, yaitu dark dan light mode yang dapat berpindah melalui button dark & light.
 
 #### Hasil :
+**Light Mode**
 ![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(608).png)
+**Dark Mode**
 ![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(612).png)
