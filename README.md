@@ -13,4 +13,4 @@ Lifecycle dari fragment ini menjadi 2 bagian, yaitu dark dan light mode yang dap
 
 #### Hasil :
 ![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(608).png)
-![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(609).png)
+![Alt Text](https://github.com/adam033/Materi5/blob/main/Screenshot%20(612).png)
